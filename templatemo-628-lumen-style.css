@@ -317,7 +317,7 @@ main { min-height: 70vh; }
   gap: 60px;
   align-items: center;
 }
-.hero-title { font-size: clamp(52px, 7vw, 104px); }
+.hero-title { font-size: clamp(52px, 4vw, 104px); }
 .hero-title em { color: var(--accent-violet); }
 .hero-copy { margin-top: 30px; }
 .hero-actions { display: flex; gap: 18px; margin-top: 42px; flex-wrap: wrap; }
